@@ -20,5 +20,9 @@ public class Dog {
         this.age= age;
         this.colour = colour;
     }
+    public void drive(double direction) {
+        System.out.println(String.format("The %s is %s in size and  %d old" ,breed , size, age ));
+   
+    }
     
 }
