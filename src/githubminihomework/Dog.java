@@ -9,11 +9,15 @@ package githubminihomework;
  * @author Capitania
  */
 public class Dog {
-    String breed;
-    String size;
-    Int Age;
-    String colour;
+    String eat;
+    String sleep;
+    String sit;
+    String run;
     
-    
-    
+        public Dog(String eat, String sleep, String sit, String run) {
+        this.eat = eat;
+        this.sleep = sleep;
+        this.sit = sit;
+        this.run = run; 
+        }
 }
