@@ -19,10 +19,10 @@ public class Dog {
         this.size = size;
         this.age= age;
         this.colour = colour;
-    }
-    public void drive(double direction) {
-        System.out.println(String.format("The %s is %s in size and  %d old" ,breed , size, age ));
-   
+    }       
+    public void drive(int characteristics) {
+        System.out.println(String.format("The %s %s is %s in size and %d years old" ,colour,breed , size, age ));
+    
     }
     
 }

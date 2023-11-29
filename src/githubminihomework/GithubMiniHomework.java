@@ -14,7 +14,9 @@ public class GithubMiniHomework {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    Dog dog1 = new Dog("Golden retriever", "Medium", 4,"dark golden");
+    dog1.drive(100);
+        
     }
     
-}
+    }
