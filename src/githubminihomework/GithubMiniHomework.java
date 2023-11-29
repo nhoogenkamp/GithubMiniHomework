@@ -30,4 +30,5 @@ public class GithubMiniHomework {
         catch (Exception e) {
            
         }
+        System.out.println("Would you like a dog?");
     }}
