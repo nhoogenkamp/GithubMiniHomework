@@ -31,4 +31,14 @@ public class GithubMiniHomework {
            
         }
         System.out.println("Would you like a dog?");
+                
+        try {
+            String dogquestion = keyboardInput.readLine();
+            System.out.println(dogquestion);
+        } 
+        catch (Exception e) {
+           
+        }
+        
+        
     }}
