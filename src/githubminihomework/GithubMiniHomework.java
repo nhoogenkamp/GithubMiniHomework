@@ -43,7 +43,5 @@ public class GithubMiniHomework {
         catch (Exception e) {
            
         }
-        
-        
     }}
 
