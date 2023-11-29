@@ -9,6 +9,7 @@ package githubminihomework;
  * @author Capitania
  */
 public class Dog {
+
     String breed;
     String size;
     int age;
@@ -24,5 +25,5 @@ public class Dog {
         System.out.println(String.format("The %s %s is %s in size and %d years old" ,colour,breed , size, age ));
     
     }
-    
+
 }
