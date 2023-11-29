@@ -6,7 +6,7 @@ package githubminihomework;
 
 /**
  *
- * @author Capitania
+ * @author Niels
  */
 public class GithubMiniHomework {
 
