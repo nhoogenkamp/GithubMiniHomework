@@ -11,9 +11,14 @@ package githubminihomework;
 public class Dog {
     String breed;
     String size;
-    Int Age;
+    int age;
     String colour;
     
-    
+        public Dog(String breed, String size, int age, String colour) {
+        this.breed = breed;
+        this.size = size;
+        this.age= age;
+        this.colour = colour;
+    }
     
 }
